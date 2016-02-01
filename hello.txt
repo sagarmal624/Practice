@@ -1,11 +1,6 @@
-<<<<<<< HEAD
-
 sagar
 ppp
 
 
-=======
 kkkkk 
->>>>>>> parent of f2061a2... inital commiit
-hh
-hh
+
